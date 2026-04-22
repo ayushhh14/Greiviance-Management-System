@@ -5,8 +5,11 @@ An end-to-end intelligent grievance management platform that automates complaint
 Traditional bank grievance systems rely heavily on manual sorting and routing of customer complaints, which leads to:
 
 1]Delayed response times
+
 2]Incorrect routing of issues
+
 3]Inefficient resource utilization
+
 4]Poor customer experience
 
 # Solution
