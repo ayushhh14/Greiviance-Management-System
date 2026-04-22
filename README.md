@@ -27,34 +27,5 @@ This project introduces an AI-powered grievance management system that:
 # System Architecture
 User Input → NLP Model → Classification & Priority → Database → Dashboard → Status Update → Analytics
 
-# Project Structure
-bank-grievance-system/
-│
-├── app.py                      # Main entry point
-│
-├── auth/
-│   └── login.py               # Authentication logic
-│
-├── pages/
-│   ├── submit.py              # Complaint submission
-│   ├── dashboard.py           # Department dashboard
-│   ├── history.py             # Admin analytics
-│
-├── utils/
-│   └── helpers.py             # Utility functions
-│
-├── model/
-│   ├── train.py               # Model training
-│   ├── predictor.py           # Prediction logic
-│
-├── database/
-│   └── db.py                  # Database operations
-│
-├── data/
-│   └── dataset.csv            # Training dataset
-│
-├── complaints.db              # SQLite database
-├── requirements.txt
-
 # Conclusion
 This system transforms traditional grievance handling into an intelligent, automated, and data-driven process, reducing manual effort while improving response time and accuracy.
