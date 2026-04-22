@@ -1,0 +1,126 @@
+text,label,priority
+loan interest rate too high,Loan Department,Medium
+unable to apply for loan online,Loan Department,Medium
+loan application rejected without reason,Loan Department,Medium
+emi calculation is incorrect,Loan Department,Medium
+loan approval taking too long,Loan Department,Medium
+home loan not processed,Loan Department,Medium
+personal loan eligibility issue,Loan Department,Medium
+loan account details not visible,Loan Department,Medium
+interest charged wrongly on loan,Loan Department,Medium
+loan closure not updated,Loan Department,Medium
+loan disbursement delayed,Loan Department,Medium
+loan amount not credited,Loan Department,High
+education loan rejected,Loan Department,Medium
+emi deducted twice,Loan Department,High
+loan status not updating,Loan Department,Medium
+loan repayment issue,Loan Department,Medium
+loan penalty charges too high,Loan Department,Medium
+cannot download loan statement,Loan Department,Low
+loan processing fee too high,Loan Department,Medium
+loan application stuck,Loan Department,Medium
+
+credit card declined unexpectedly,Credit Card Department,Medium
+unable to activate credit card,Credit Card Department,Medium
+credit card limit too low,Credit Card Department,Low
+wrong credit card charges,Credit Card Department,High
+credit card bill incorrect,Credit Card Department,Medium
+credit card not delivered,Credit Card Department,Medium
+unauthorized credit card transaction,Credit Card Department,High
+credit card blocked,Credit Card Department,Medium
+reward points not credited,Credit Card Department,Low
+credit card payment failed,Credit Card Department,Medium
+late fee wrongly charged,Credit Card Department,Medium
+credit card statement not generated,Credit Card Department,Low
+cannot login to credit card portal,Credit Card Department,Medium
+credit card expired issue,Credit Card Department,Low
+international transaction not working,Credit Card Department,Medium
+credit card emi issue,Credit Card Department,Medium
+credit card upgrade request pending,Credit Card Department,Low
+credit card limit not updated,Credit Card Department,Low
+credit card pin not received,Credit Card Department,Medium
+credit card cashback not received,Credit Card Department,Low
+
+staff not responding properly,Customer Service,Low
+poor customer service experience,Customer Service,Low
+long waiting time at branch,Customer Service,Low
+support team not helpful,Customer Service,Low
+complaint not resolved yet,Customer Service,Medium
+rude behavior by bank staff,Customer Service,Low
+no response to emails,Customer Service,Medium
+helpline not working,Customer Service,Medium
+branch service very slow,Customer Service,Low
+customer support delayed response,Customer Service,Medium
+issue not resolved on call,Customer Service,Medium
+lack of communication from bank,Customer Service,Low
+service quality very poor,Customer Service,Low
+customer executive disconnected call,Customer Service,Low
+multiple complaints ignored,Customer Service,Medium
+staff misguiding customers,Customer Service,Medium
+branch manager unavailable,Customer Service,Low
+no follow up from bank,Customer Service,Medium
+unsatisfactory support,Customer Service,Low
+support team not answering queries,Customer Service,Medium
+
+fraud transaction in my account,Fraud & Security,High
+money deducted without authorization,Fraud & Security,High
+account hacked,Fraud & Security,High
+unauthorized login detected,Fraud & Security,High
+phishing attack reported,Fraud & Security,High
+suspicious activity in account,Fraud & Security,High
+atm fraud transaction,Fraud & Security,High
+card used without permission,Fraud & Security,High
+otp misuse,Fraud & Security,High
+online fraud complaint,Fraud & Security,High
+fake call asking bank details,Fraud & Security,High
+scam transaction happened,Fraud & Security,High
+unauthorized fund transfer,Fraud & Security,High
+account compromised,Fraud & Security,High
+fraud alert ignored,Fraud & Security,High
+duplicate transaction fraud,Fraud & Security,High
+security breach issue,Fraud & Security,High
+identity theft complaint,Fraud & Security,High
+fraudulent loan applied,Fraud & Security,High
+unrecognized transaction alert,Fraud & Security,High
+
+mobile app not working,Technical Issues,Medium
+website crashing frequently,Technical Issues,Medium
+unable to login to app,Technical Issues,Medium
+server down issue,Technical Issues,High
+error while making payment,Technical Issues,High
+app loading very slow,Technical Issues,Low
+internet banking not working,Technical Issues,High
+technical glitch in app,Technical Issues,Medium
+page not loading,Technical Issues,Medium
+transaction failed due to error,Technical Issues,High
+system showing error code,Technical Issues,Medium
+payment gateway failed,Technical Issues,High
+login page not opening,Technical Issues,Medium
+app update causing issue,Technical Issues,Medium
+unable to reset password,Technical Issues,Medium
+technical error during transfer,Technical Issues,High
+dashboard not loading,Technical Issues,Medium
+app freezing issue,Technical Issues,Low
+website timeout error,Technical Issues,Medium
+api not responding,Technical Issues,High
+
+account blocked suddenly,Account Management,High
+unable to login account,Account Management,Medium
+kyc not updated,Account Management,Medium
+account balance incorrect,Account Management,High
+account details not visible,Account Management,Medium
+unable to update profile,Account Management,Low
+account statement not available,Account Management,Low
+account closure issue,Account Management,Medium
+account reactivation needed,Account Management,Medium
+joint account issue,Account Management,Low
+account upgrade request pending,Account Management,Low
+savings account not accessible,Account Management,High
+account number mismatch,Account Management,Medium
+incorrect account information,Account Management,Medium
+account verification failed,Account Management,Medium
+account linked wrongly,Account Management,Medium
+nominee not updated,Account Management,Low
+account transfer issue,Account Management,High
+account freeze problem,Account Management,High
+bank account locked,Account Management,High
