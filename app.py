@@ -51,7 +51,7 @@ body {
     background-color: #4a4f55;
     color: white;
     border-radius: 10px;
-    height: 100px;
+    height: 50px;
     font-size: 18px;
 }
 .stButton>button:hover {
